@@ -1,4 +1,4 @@
-# AngularBlog
+# Avanade Blog
 
 Este projeto é um mini blog desenvolvido em Angular para compartilhar conteúdos sobre a Avanade. 
 
